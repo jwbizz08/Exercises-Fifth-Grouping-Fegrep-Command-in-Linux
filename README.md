@@ -1,4 +1,5 @@
-Linux Projects & Labs
+Linux Projects & Labs: 
+
 Linux offers several advantages in cybersecurity due to its open-source nature, flexibility, and robust security features. Firstly, its open-source nature allows for complete transparency, enabling users to inspect the code for security vulnerabilities and customize it to suit their specific security needs. Additionally, Linux distributions come with built-in security features such as mandatory access controls (MAC) like SELinux or AppArmor, which provide granular control over system resources, enhancing overall security posture.
 
 Using Linux in cybersecurity has significantly benefited my learning and skill development. By working with Linux distributions like Ubuntu, Kali Linux, or Debian, I gained hands-on experience with various security tools and techniques widely used in cybersecurity operations. These distributions come pre-installed with a plethora of security tools such as Nmap, Wireshark, Metasploit, and more, allowing me to practice penetration testing, vulnerability assessment, and network monitoring in a controlled environment.
